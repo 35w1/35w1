@@ -133,6 +133,6 @@ site Next/TS com o que eu mando pra fora — design direto, sem enrolação.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,100:05070A&height=90&section=footer" width="100%" />
 
-<sub>feito pra parecer produto — não template.</sub>
+
 
 </div>
